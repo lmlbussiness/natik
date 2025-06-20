@@ -1,0 +1,2 @@
+// For future interactivity like alerts, login checks, etc.
+console.log("LML Business Site Loaded");
